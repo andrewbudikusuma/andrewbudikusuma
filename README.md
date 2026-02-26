@@ -23,14 +23,6 @@ Welcome to my GitHub realm, where the code is strong and the coffee is stronger.
 
 ---
 
-## 🔥 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewbudikusuma&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
 ## 📊 My Programming Humor
 
 **"Why do programmers prefer dark mode?"**  
